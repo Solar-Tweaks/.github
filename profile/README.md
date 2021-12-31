@@ -8,6 +8,7 @@ Here at Solar Tweaks, we edit the Lunar Client source code to enable freelook, r
   * A way to customize the game and unlock features blocked by servers and remove useless features
   * A super cool in game integration for our users
   * A fully open source project
+  * A stats proxy for Hypixel
   * And much more coming soon!
 
 # Our GitHub 🦑
