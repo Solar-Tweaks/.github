@@ -1,5 +1,5 @@
 # Welcome to Solar Tweaks GitHub 👋
-![Discord](https://img.shields.io/discord/880500602910679112?color=404eed&logo=discord&logoColor=%23fff&style=for-the-badge)
+![Discord](https://img.shields.io/discord/900102476412387410?color=404eed&logo=discord&logoColor=%23fff&style=for-the-badge)
 
 Here at Solar Tweaks, we edit the Lunar Client source code to enable freelook, remove pinned servers and TONS more!
 
