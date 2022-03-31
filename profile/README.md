@@ -1,5 +1,6 @@
 # Welcome to Solar Tweaks GitHub 👋
-<!-- ![Discord](https://img.shields.io/discord/880500602910679112?color=404eed&logo=discord&logoColor=%23fff&style=for-the-badge) -->
+
+<!-- ![Discord](https://img.shields.io/discord/930481786797064242?color=404eed&logo=discord&logoColor=%23fff&style=for-the-badge) -->
 
 # Where is our Discord server?
 
