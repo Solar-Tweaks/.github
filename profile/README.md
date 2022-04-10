@@ -4,7 +4,9 @@
 
 # Where is our Discord server?
 
-Our Discord server got terminated again. We got terminated for the following reason `Your account participated in selling, promoting, or distributing cheats, hacks, or cracked accounts.`. We didn't even release the software but we got terminated anyway 🤷. We are currently dealing with Discord to resolve this issue as fast as possible. We are sorry if it is a bit of a burden for you but we do our best. Don't trash Discord for their decision. The Trust & Safety team is only doing their job and they probably got misinformed.
+Our Discord server got terminated again. We got terminated for the following reason `Your account participated in selling, promoting, or distributing cheats, hacks, or cracked accounts.`. We didn't even release the software but we got terminated anyway 🤷. ~~We are currently dealing with Discord to resolve this issue as fast as possible. We are sorry if it is a bit of a burden for you but we do our best. Don't trash Discord for their decision. The Trust & Safety team is only doing their job and they probably got misinformed.~~
+
+**We won't recreate a Discord server. We're going to make videos instead because there, hopefully, Moonsworth won't be able to terminate us without a valid reason. Keep in mind that the GitHub will still be updated! As long as you see the GitHub online, we're here, we won't give up!**
 
 Here at Solar Tweaks, we edit the Lunar Client source code to enable freelook, remove pinned servers and TONS more!
 
