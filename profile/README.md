@@ -1,6 +1,7 @@
 # Welcome to Solar Tweaks GitHub 👋
 
-Here at Solar Tweaks, we edit the Lunar Client source code to enable freelook, remove pinned servers and TONS more!
+Here at Solar Tweaks, we allow users to modify the Lunar Client code to enable freelook, remove pinned servers and TONS more!  
+([Longer explanation](https://github.com/Solar-Tweaks/SolarPatcher/wiki/Explanation); modification only happens on the pc of a user and is gone after quitting the game)
 
 # What do we have to improve your gaming experience? ✨
   * A complete new launcher for Lunar Client with more exciting features
